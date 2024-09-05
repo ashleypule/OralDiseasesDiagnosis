@@ -1,0 +1,42 @@
+{
+    "0": {
+        "name": "Bruxism",
+        "description": "Bruxism is the involuntary or habitual grinding of the teeth, typically during sleep. It can lead to tooth wear, jaw pain, and headaches.",
+        "suggested_treatment": "Treatment may include the use of a night guard, stress management techniques, and dental check-ups to monitor and manage damage."
+    },
+    "1": {
+        "name": "Cavities",
+        "description": "Cavities, or dental caries, are areas of decay on the teeth caused by bacteria that produce acids. This can lead to holes and damage in the teeth.",
+        "suggested_treatment": "Treatment typically involves dental fillings, improved oral hygiene practices, and dietary changes to reduce sugar intake."
+    },
+    "2": {
+        "name": "Dental caries (tooth decay)",
+        "description": "Dental caries is a bacterial infection that causes the decay of tooth structure. It can result in cavities and tooth sensitivity.",
+        "suggested_treatment": "Treatment includes restorative procedures such as fillings, crowns, and root canals, along with preventive care like fluoride treatments and good oral hygiene."
+    },
+    "3": {
+        "name": "Edentulism (total tooth loss)",
+        "description": "Edentulism refers to the complete loss of all teeth in the mouth. This condition can affect speech, chewing, and appearance.",
+        "suggested_treatment": "Options for treatment include dentures, dental implants, or fixed prosthodontics to restore function and aesthetics."
+    },
+    "4": {
+        "name": "Oral cancer",
+        "description": "Oral cancer includes cancers of the lips, tongue, cheeks, floor of the mouth, hard and soft palate, and throat. It often presents as sores or lumps that do not heal.",
+        "suggested_treatment": "Treatment usually involves surgery, radiation therapy, and chemotherapy depending on the stage and location of the cancer. Early detection improves prognosis."
+    },
+    "5": {
+        "name": "Periodontal (gum) disease",
+        "description": "Periodontal disease affects the gums and bone supporting the teeth, causing gum inflammation, bleeding, and potential tooth loss.",
+        "suggested_treatment": "Treatment includes professional dental cleanings, scaling and root planing, and improved oral hygiene practices. Advanced cases may require surgery."
+    },
+    "6": {
+        "name": "Thrush",
+        "description": "Thrush is a fungal infection in the mouth caused by Candida yeast, leading to white patches on the tongue and oral mucosa.",
+        "suggested_treatment": "Treatment involves antifungal medications, improved oral hygiene, and managing underlying conditions such as diabetes or immune system disorders."
+    },
+    "7": {
+        "name": "Tooth discoloration",
+        "description": "Tooth discoloration can be due to staining, aging, or underlying dental issues. It can affect the aesthetic appearance of the teeth.",
+        "suggested_treatment": "Treatment options include professional teeth whitening, veneers, or dental bonding. Addressing underlying causes, such as smoking or certain medications, may also be necessary."
+    }
+}
