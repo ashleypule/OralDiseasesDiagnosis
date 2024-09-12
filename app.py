@@ -48,7 +48,7 @@ else:
 
         # Sidebar for navigation
         st.sidebar.title("Navigation")
-        page = st.sidebar.radio(["Disease Diagnosis", "Chat with Bot"])
+        page = st.sidebar.radio("",["Disease Diagnosis", "Chat with Bot"])
 
         if page == "Disease Diagnosis":
 
