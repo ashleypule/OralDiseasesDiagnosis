@@ -48,9 +48,13 @@ else:
 
         # Sidebar for navigation
         st.sidebar.title("Navigation")
-        page = st.sidebar.radio("Select a page:", ["Disease Diagnosis", "Chat with Bot"])
+        page = st.sidebar.radio("", ["Disease Diagnosis", "Chat with Bot"])
 
         if page == "Disease Diagnosis":
+
+            icon = Image.open("dental.jpg")
+            st.image(icon, width=150) 
+            
             # Oral Disease Diagnosis Page
             st.write('Upload an image of an oral cavity to diagnose the disease.')
 
@@ -104,6 +108,10 @@ else:
                 st.write("Please upload an image to proceed.")
 
         elif page == "Chat with Bot":
+
+            icon = Image.open("chatbot.jpg")
+            st.image(icon, width=150) 
+
             # Chatbot Page
             st.write("## Chat with Our Bot")
 
