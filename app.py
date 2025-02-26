@@ -9,7 +9,7 @@ import time
 from groq import Groq  # Import the Groq client from the appropriate library
 
 # Initialize the Groq client
-API_KEY = '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'  # Replace with your actual API key
+API_KEY = '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'  # Replace with your actual API key
 client = Groq(api_key=API_KEY)
 
 # Load the trained model
